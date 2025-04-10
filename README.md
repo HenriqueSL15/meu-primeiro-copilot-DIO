@@ -4,7 +4,7 @@
 Criei um assistente virtual usando o Copilot Studio, seguindo estes passos:  
 1. **Escolhi um modelo pronto**: Usei o template "Suporte Básico" para começar.  
 2. **Adicionei perguntas e respostas**: Ensinei o Copilot a responder coisas como:  
-   - "Como resetar minha senha?" ➡️ "Clique [aqui](link) para redefinir sua senha."  
+   - "Como resetar minha senha?" ➡️ "Clique aqui para redefinir sua senha."  
    - "O site está com erro" ➡️ "Por favor, descreva o problema."  
 3. **Testei no chat**: Simulei conversas para ver se as respostas faziam sentido.  
 
